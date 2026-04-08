@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>hosting website</title>
+
 </head>
 <body>
  <h1>Welcome to my webpage</h1>
